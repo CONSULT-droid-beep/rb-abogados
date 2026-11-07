@@ -1,0 +1,9 @@
+RB Abogados & Asociados — publicación en GitHub Pages
+
+1. Extrae el ZIP.
+2. En GitHub crea un repositorio público llamado rb-abogados.
+3. En el repositorio usa Add file > Upload files y sube el contenido de esta carpeta (index.html, img, .nojekyll).
+4. En Settings > Pages selecciona Deploy from a branch, main, /(root), Save.
+5. Tu dirección será https://TU-USUARIO.github.io/rb-abogados/
+
+Importante: no subas el ZIP como único archivo. El archivo index.html debe quedar en la raíz del repositorio.
