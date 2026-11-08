@@ -1,9 +1,8 @@
-RB Abogados & Asociados — publicación en GitHub Pages
+RB ABOGADOS — ACTUALIZACIÓN DEL FORMULARIO
 
-1. Extrae el ZIP.
-2. En GitHub crea un repositorio público llamado rb-abogados.
-3. En el repositorio usa Add file > Upload files y sube el contenido de esta carpeta (index.html, img, .nojekyll).
-4. En Settings > Pages selecciona Deploy from a branch, main, /(root), Save.
-5. Tu dirección será https://TU-USUARIO.github.io/rb-abogados/
-
-Importante: no subas el ZIP como único archivo. El archivo index.html debe quedar en la raíz del repositorio.
+1. Reemplaza solamente index.html en el repositorio CONSULT-droid-beep/rb-abogados.
+2. Conserva la carpeta img tal como está.
+3. En GitHub abre index.html > lápiz Edit > pega el contenido del nuevo archivo > Commit changes.
+4. Espera a que GitHub Pages publique el cambio; abre https://consult-droid-beep.github.io/rb-abogados/#formulario y actualiza con Ctrl+F5.
+5. Prueba el formulario: debe abrir WhatsApp con el mensaje precargado; el visitante todavía debe presionar Enviar en WhatsApp.
+IMPORTANTE: GitHub Pages no recibe correos ni almacena formularios por sí solo. Este formulario abre WhatsApp y no guarda los datos en el sitio.
